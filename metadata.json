@@ -1,0 +1,8 @@
+{
+  "name": "要学习--智能学习助手",
+  "description": "A multimodal AI tutor for middle school students, supporting text, audio, image, and video inputs with rich media responses.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
